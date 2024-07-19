@@ -1,0 +1,23 @@
+header {
+
+}
+
+#content {
+  &.page-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: 0 32px;
+
+    section {
+      flex: 1;
+    }
+
+    aside {
+      width: 100%;
+
+
+    }
+  }
+}
+
