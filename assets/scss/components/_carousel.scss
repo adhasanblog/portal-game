@@ -1,0 +1,13 @@
+.carousel {
+
+  .carousel-inner {
+
+    .carousel-item {
+      img {
+        max-height: 500px;
+        object-fit: cover;
+        object-position: center center;
+      }
+    }
+  }
+}
